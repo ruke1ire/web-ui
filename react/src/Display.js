@@ -20,7 +20,7 @@ function Display() {
                 layout={ {width: 320, height: 240, title: 'A Fancy Plot'} }
               />
             <h3> This is an image. </h3>
-            <img src='./trigboi.jpg' alt="SmallImg" width="200"/>;
+            <img src='./trigboi.jpg' alt="SmallImg" width="200"/>
         </div>
     );
 }
