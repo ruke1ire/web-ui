@@ -20,8 +20,8 @@ function Control() {
           onChange={(vals) => { 
               setVals(vals);
               console.log("Slider Value =",vals);
-          }}
-      />
+          }} />
+      <paragraph>Slider value : {vals}</paragraph>
     </div>
   );
 }
